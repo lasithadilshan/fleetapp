@@ -1,3 +1,3 @@
 # fleetapp
 
-This a Vehicle Management System.
+This is a Vehicle Management System.
